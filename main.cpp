@@ -5,4 +5,5 @@ int main() {
         if (score > 60) ++passed;
     }
     std::cout << passed << '\n';
+    std::cout << passed << '\n';
 }
