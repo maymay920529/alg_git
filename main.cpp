@@ -4,6 +4,7 @@ int main() {
     while (std::cin >> score && score != -1) {
         if (score > 60) ++passed;
     }
+    std::cout << passed << std::endl;
     std::cout << passed << '\n';
     std::cout << passed << '\n';
     std::cout << passed << '\n';
