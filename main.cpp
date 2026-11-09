@@ -8,4 +8,5 @@ int main() {
     std::cout << passed << '\n';
     std::cout << passed << '\n';
     std::cout << passed << '\n';
+    std::cout << passed << '\n';
 }
